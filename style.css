@@ -1,0 +1,13 @@
+body {background-color: cornflowerblue;}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    align-items: cnter;
+    border-width: 10px;
+    width: 10%;
+    height: 0px;
+    border-color: darkgrey;
+}
+h1 {color: khaki;}
+h3 {color: khaki;}
+h2 {color: khaki;}
